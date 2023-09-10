@@ -1,0 +1,28 @@
+.div_um {
+    width: 200px;
+    height: 200px;
+    background-color: #ff000f;
+}
+
+.div_dois {
+    width: 100px; 
+    height: 100px; 
+    background: #eee; 
+    }
+    
+    .frase1 {
+        background-color: purple;
+        font-family:Impact, 'Arial Narrow Bold', sans-serif
+    }
+
+.div_tres {
+    background-color: rgb(255, 25, 255);
+    width: 70%;
+    height: 70vh;
+  
+}
+
+.div_quatro {
+    width: 80vh; 
+    height: 60%; 
+    background-color: rgb(233, 0, 109); }
